@@ -1,9 +1,4 @@
 # vue2-news
-![image](https://img.shields.io/badge/vue-2.5.13-blue.svg)
-![image](https://img.shields.io/badge/vue--router-3.0.1-blue.svg)
-![image](https://img.shields.io/badge/vuex-3.0.1-blue.svg)
-![image](https://img.shields.io/badge/mint--ui-2.2.13-blue.svg)
-
 
 
 ## 简介
@@ -17,9 +12,6 @@ Vue学习系列
 - 第二阶段：[vue2-news] —— 今日头条（ 移动端，难度：★★★☆☆ 过渡项目）
 - 第三阶段：[vue2-health] —— 头条号（ pc端，难度：★★★☆☆ 过渡项目）
 - 第四阶段：[vue2-native] —— 今日头条（ native端，难度：★★★★☆ 进阶项目）
-
-##### 注：此系列只关注前端项目的实现，后端等知识不是此系列的范围，但会告知一二。
-
 
 
 
@@ -117,7 +109,5 @@ npm run build（File in the docs folder）
 
 
 ## License
-
-[MIT](https://github.com/uncleLian/vue2-news/blob/master/LICENSE)
 
 Copyright (c) 2017-present，uncleLian
