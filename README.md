@@ -4,8 +4,7 @@
 ![image](https://img.shields.io/badge/vuex-3.0.1-blue.svg)
 ![image](https://img.shields.io/badge/mint--ui-2.2.13-blue.svg)
 
-## 公告
-原项目已拆分，此仓库保留今日头条（web端代码），[native端代码，请戳这里](https://github.com/uncleLian/vue2-native)
+
 
 ## 简介
 vue2-news 是一个仿今日头条移动端的项目，共4个页面，涉及文章的分类、展示、阅读、推荐、搜索等。
@@ -14,26 +13,15 @@ vue2-news 是一个仿今日头条移动端的项目，共4个页面，涉及文
 
 ## 最终目标
 Vue学习系列
-- 第一阶段：[vue2-echo](https://github.com/uncleLian/vue2-echo) —— echo回声（ 移动端，难度：★★☆☆☆  入门项目）
-- 第二阶段：[vue2-news](https://github.com/uncleLian/vue2-news) —— 今日头条（ 移动端，难度：★★★☆☆ 过渡项目）
-- 第三阶段：[vue2-health](https://github.com/uncleLian/vue2-health) —— 头条号（ pc端，难度：★★★☆☆ 过渡项目）
-- 第四阶段：[vue2-native](https://github.com/uncleLian/vue2-native) —— 今日头条（ native端，难度：★★★★☆ 进阶项目）
+- 第一阶段：[vue2-echo] —— echo回声（ 移动端，难度：★★☆☆☆  入门项目）
+- 第二阶段：[vue2-news] —— 今日头条（ 移动端，难度：★★★☆☆ 过渡项目）
+- 第三阶段：[vue2-health] —— 头条号（ pc端，难度：★★★☆☆ 过渡项目）
+- 第四阶段：[vue2-native] —— 今日头条（ native端，难度：★★★★☆ 进阶项目）
 
 ##### 注：此系列只关注前端项目的实现，后端等知识不是此系列的范围，但会告知一二。
 
 
 
-## 注意
-
-> 1、本地运行项目请把项目里的mint-ui.common.js文件替换掉 node_modules/minit-ui/lib/mint-ui.common.js文件。主要优化下拉动作和左右滑动的体验。详细查看文章 [饿了么mint-ui库loadmore组件的下拉问题](https://unclelian.github.io/2017/08/01/mint-ui/)
-
-> 2、下载App安装包请使用手机浏览器下载。
-
-## 项目演示
-
-[项目演示请戳这里 ](http://toutiao.liansixin.win)（请使用手机模式预览）
-
-<img src="https://github.com/uncleLian/vue2-news/raw/master/screenshots/web_QRcode.png" width="250" height="250"/>
 
 ## 功能
 
@@ -50,15 +38,6 @@ Vue学习系列
 - [x] 展开全文
 - [x] 下载页（目前只支持下载Android包）
 
-## 部分截图
-
-- 首页、详情页
-
-<img src="https://github.com/uncleLian/vue2-news/raw/master/screenshots/web_index.png" width="365" height="619"/> <img src="https://github.com/uncleLian/vue2-news/raw/master/screenshots/web_detail.png" width="365" height="619"/>
-
-- 搜索页
-
-<img src="https://github.com/uncleLian/vue2-news/raw/master/screenshots/web_search.png" width="365" height="619"/> <img src="https://github.com/uncleLian/vue2-news/raw/master/screenshots/web_search2.png" width="365" height="619"/>
 
 
 
